@@ -40,10 +40,11 @@
 
 <br>
 
-## Problem-Solving Stats
+## Stats
 
 [![Kshitij's Leetcode Stats](https://leetcard.jacoblin.cool/Kshitij_Sharma)](https://leetcode.com/Kshitij_Sharma/)
 [![Kshitij's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kshitij466e)](https://auth.geeksforgeeks.org/user/kshitij466e/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijsh-2604&show_icons=true&locale=en" alt="kshitijsh-2604" /></p>
 
 <br>
 
