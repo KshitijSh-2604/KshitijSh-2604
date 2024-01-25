@@ -40,7 +40,7 @@
 
 <br>
 
-## Stats
+## 🔢 Stats
 
 [![Kshitij's Leetcode Stats](https://leetcard.jacoblin.cool/Kshitij_Sharma)](https://leetcode.com/Kshitij_Sharma/)
 [![Kshitij's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kshitij466e)](https://auth.geeksforgeeks.org/user/kshitij466e/)
