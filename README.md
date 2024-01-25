@@ -1,13 +1,14 @@
 ![Header](./github_header.png)
 
 <p align="left">
+ <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitijsh-2604" alt="kshitijsh-2604" /></a> -->
   <img src="https://komarev.com/ghpvc/?username=kshitijsh-2604&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijsh-2604" />
 </p>
 
 ## 😄 About Me
 - 🎓 I am a Bachelor of Technology, Computer Science graduate, from Dr. AKhilesh Das Gupta Institute of Technology and Management, IPU, Delhi, India.
-- 🌱 I am currently learning Flutter and related technologies, and simultaneously looking for related work oppurtunities.
-- 🔭 I am currently working on different personal projects and learning new stuff.
+- 🌱 I am currently learning <strong>Flutter</strong> and related technologies, and simultaneously <b>looking for related work oppurtunities</b>.
+- 🔭 I am currently working on different personal projects and learning new stuff related to flutter.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 <p align="center">
@@ -27,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,dart,flutter,firebase,git,github,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,dart,flutter,firebase,git,github,vscode,androidstudio,googlecloud" />
   </a>
 </p>
 
@@ -38,6 +39,28 @@
 </p>
 
 <br>
+
+## Problem-Solving Stats
+
+[![Kshitij's Leetcode Stats](https://leetcard.jacoblin.cool/Kshitij_Sharma)](https://leetcode.com/Kshitij_Sharma/)
+[![Kshitij's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kshitij466e)](https://auth.geeksforgeeks.org/user/kshitij466e/)
+
+<br>
+
+## 🫱🏼‍🫲🏼 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/kshitij-sharma-09488b194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij-sharma-09488b194" height="30" width="40" /></a>
+  <a href="https://instagram.com/sharma_jiii_kaa_ladka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma_jiii_kaa_ladka" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/kshitijsh2604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kshitijsh2604" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/kshitij466e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kshitij466e" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/sharma_jiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharma_jiiii" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/kshitij_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitij_sharma" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/kshitij466e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kshitij466e" height="30" width="40" /></a>
+</p>
+
+<br>
+
 
 <!--
 **KshitijSh-2604/KshitijSh-2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
