@@ -44,10 +44,10 @@
 
 | [![Kshitij's Leetcode Stats](https://leetcard.jacoblin.cool/Kshitij_Sharma)](https://leetcode.com/Kshitij_Sharma/) | [![Kshitij's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kshitij466e)](https://auth.geeksforgeeks.org/user/kshitij466e/) |
 |:-:|:-:| 
-| ![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitijsh-2604&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kshitijsh-2604&ring=dd2727&fire=dd2727&theme=tokyonight)
+| ![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=KshitijSh-2604&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kshitijsh-2604&ring=dd2727&fire=dd2727&theme=tokyonight)
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsh-2604&langs_count=6&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijSh-2604&langs_count=6&show_icons=true&theme=tokyonight)
 
 ## 🫱🏼‍🫲🏼 Connect With Me
 
