@@ -17,6 +17,7 @@
 </p>
 
 ## 👨‍💻 My projects
+* [Rreddit](https://github.com/KshitijSh-2604/rreddit) - <b>(IN PROGRESS)</b> Fully functional clone of Reddit, made using Flutter and Firebase as backend.
 * [Blood Buddy](https://github.com/KshitijSh-2604/BLOOD-BUDDY-FINAL-main) - Blood Buddy is an innovative <strong>Flutter-based mobile application</strong>, with <strong>Firebase</strong> as backend, designed to seamlessly bridge the gap between patients in need of blood and willing donors within a specific geographic area.
 * [Expense Tracker App](https://github.com/KshitijSh-2604/Expense-Tracker-App) - An intuitive and efficient expense tracker app crafted with <strong>Flutter</strong> technology. This app simplifies the process of managing your finances by allowing user to effortlessly track their expenses on the go. It enables users to categorize expenditures and visualize spendings through insightful bar chart.
 * [Hotel Management System](https://github.com/KshitijSh-2604/JavaCollegeProject) - Fully functional Hotel Management System, created using <strong>Java</strong>, <strong>SQL</strong> and <strong>Java AWT</strong> for my junior year college project.
