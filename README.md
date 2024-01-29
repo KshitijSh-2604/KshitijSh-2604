@@ -4,9 +4,14 @@
  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitijsh-2604" alt="kshitijsh-2604" /></a> -->
   <img src="https://komarev.com/ghpvc/?username=kshitijsh-2604&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijsh-2604" />
 </p>
+<!--
+![](https://komarev.com/ghpvc/?username=kshitijsh-2604)
+![](https://vbr.wocr.tk/badge?page_id=kshitijsh-2604.kshitijsh-2604&color=00cf00)
+![Visitor Count](https://profile-counter.glitch.me/kshitijsh-2604/count.svg)
+-->
 
 ## 😄 About Me
-- 🎓 I am a Bachelor of Technology, Computer Science graduate, from Dr. AKhilesh Das Gupta Institute of Technology and Management, IPU, Delhi, India.
+- 🎓 I am a Bachelor of Technology, <b>Computer Science Graduate</b>, from Dr. Akhilesh Das Gupta Institute of Technology and Management, IPU, Delhi, India.
 - 🌱 I am currently learning <strong>Flutter</strong> and related technologies, and simultaneously <b>looking for related work oppurtunities</b>.
 - 🔭 I am currently working on different personal projects and learning new stuff related to flutter.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -14,6 +19,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kshitij-sharma-09488b194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kshitij Sharma | LinkedIn"/></a>
   <a href="https://linktr.ee/Kshitij_Sharma"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Kshitij Sharma | Linktree"/></a>
+  <a href="https://github.com/kshitijsh-2604?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kshitijsh-2604?color=brown&labelColor=red&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 My projects
@@ -22,8 +28,6 @@
 * [Expense Tracker App](https://github.com/KshitijSh-2604/Expense-Tracker-App) - An intuitive and efficient expense tracker app crafted with <strong>Flutter</strong> technology. This app simplifies the process of managing your finances by allowing user to effortlessly track their expenses on the go. It enables users to categorize expenditures and visualize spendings through insightful bar chart.
 * [Hotel Management System](https://github.com/KshitijSh-2604/JavaCollegeProject) - Fully functional Hotel Management System, created using <strong>Java</strong>, <strong>SQL</strong> and <strong>Java AWT</strong> for my junior year college project.
 * [Portfolio V1](https://github.com/KshitijSh-2604/Portfolio) - A Portfolio website made using <strong>HTML</strong> and <strong>CSS</strong>.
-
-<br>
 
 ## 💼 Technical Skills
 
@@ -39,7 +43,9 @@
   </a>
 </p>
 
-<br>
+## 🚀 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kshitijsh-2604&theme=onedark)](https://github.com/kshitijsh-2604/github-profile-trophy)
 
 ## 🔢 Stats
 
