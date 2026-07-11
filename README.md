@@ -1,8 +1,9 @@
-![Header](./github_header.png)
+<img width="3168" height="1344" alt="banner" src="https://github.com/user-attachments/assets/f1aeb044-0d4f-4a6c-976c-b965463e2817" />
+
 
 <p align="left">
  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitijsh-2604" alt="kshitijsh-2604" /></a> -->
-  <img src="https://komarev.com/ghpvc/?username=kshitijsh-2604&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijsh-2604" />
+ <img src="https://komarev.com/ghpvc/?username=kshitijsh-2604&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijsh-2604" />
 </p>
 <!--
 ![](https://komarev.com/ghpvc/?username=kshitijsh-2604)
@@ -12,7 +13,7 @@
 
 ## 😄 About Me
 - 🎓 I recently completed my <b>Masters Degree in Information Technology (2024-2026)</b>, specialization in Mobile Communication and Network Technology, from NSUT Dwarka, Delhi, with an <b>8.11 CGPA</b>.
-- 🎓 Prior to that, I graduated with Bachelors Degree in <b>Computer Science Engineering (2019-2023)</b>, from Dr. Akhilesh Das Gupta Institute of Technology and Management, IPU, Delhi, India, with a <b>9.0 CGPA</b>.
+- 🎓 Prior to that, I graduated with Bachelors Degree in <b>Computer Science Engineering (2019-2023)</b>, from Dr. Akhilesh Das Gupta Institute of Technology and Management, GGSIPU, Delhi, with a <b>9.0 CGPA</b>.
 - 💻 I also did an Internship as <b>SDE Intern at Mahindra Logistics Limited</b>, Gurugram, from August 2025 to November 2025.
 - 🌱 I have strong base on <strong>Flutter mobile application development, Data Structures and Algorithmns</strong>, and am currently <b>looking for job/internship oppurtunities, for either SDE or Mobile Developer positions</b>.
 - 🔭 I am currently working on different personal flutter projects and also learning Python, ML & AI (to stay with the always movies technological advancements).
@@ -37,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,dart,flutter,firebase,git,github,vscode,androidstudio,python," />
+    <img src="https://skillicons.dev/icons?i=cpp,c,dart,flutter,firebase,git,github,vscode,androidstudio,python" />
   </a>
 </p>
 
