@@ -26,6 +26,8 @@
 </p>
 
 ## 👨‍💻 My projects
+
+* [Portfolio Website](https://kshitijsh-2604.github.io/Portfolio-Website) - A premium, full-stack personal portfolio with blogs, built with **Flutter Web**, **FastAPI**, and **Supabase**. This project features real-time weather-reactive themes, Spotify integration, and an immersive media experience.
 * [SongCatcher](https://github.com/KshitijSh-2604/songcatcher) <b>(DEV in Progress)</b> - A cross-platform multiplayer realtime song guessing game, inspired by skribble.io. A snippet of song will play for 3 rounds, for 2sec, 3sec and 5sec respectively, each player has to guess the song. The faster you catch it, more the points you earn. <i>(I have planned to make this much more bigger in future.)</i>
 * [BookWorm](https://github.com/KshitijSh-2604/BookWorm) <b>(DEV in Progress)</b> - book recommendation app based on story arcs and character dynamics rather than samilar genres, same author and other generic constraints. Took inspiration from [harrisonpim/bookworm](https://github.com/harrisonpim/bookworm).
 <!-- * [Rreddit](https://github.com/KshitijSh-2604/rreddit) - <b>(IN PROGRESS)</b> Fully functional clone of Reddit, made using Flutter and Firebase as backend.-->
