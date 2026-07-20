@@ -30,11 +30,11 @@
 * [Portfolio Website](https://kshitijsh-2604.github.io/Portfolio-Website) - A premium, full-stack personal portfolio with blogs, built with **Flutter Web**, **FastAPI**, and **Supabase**. This project features real-time weather-reactive themes, Spotify integration, and an immersive media experience.
 * [SongCatcher](https://github.com/KshitijSh-2604/songcatcher) <b>(DEV in Progress)</b> - A cross-platform multiplayer realtime song guessing game, inspired by skribble.io. A snippet of song will play for 3 rounds, for 2sec, 3sec and 5sec respectively, each player has to guess the song. The faster you catch it, more the points you earn. <i>(I have planned to make this much more bigger in future.)</i>
 * [BookWorm](https://github.com/KshitijSh-2604/BookWorm) <b>(DEV in Progress)</b> - book recommendation app based on story arcs and character dynamics rather than samilar genres, same author and other generic constraints. Took inspiration from [harrisonpim/bookworm](https://github.com/harrisonpim/bookworm).
-<!-- * [Rreddit](https://github.com/KshitijSh-2604/rreddit) - <b>(IN PROGRESS)</b> Fully functional clone of Reddit, made using Flutter and Firebase as backend.-->
 * [Blood Buddy](https://github.com/KshitijSh-2604/BLOOD-BUDDY-FINAL-main) - Blood Buddy is an innovative <strong>Flutter-based mobile application</strong>, with <strong>Firebase</strong> as backend, designed to seamlessly bridge the gap between patients in need of blood and willing donors within a specific geographic area.
 * [Expense Tracker App](https://github.com/KshitijSh-2604/Expense-Tracker-App) - An intuitive and efficient expense tracker app crafted with <strong>Flutter</strong> technology. This app simplifies the process of managing your finances by allowing user to effortlessly track their expenses on the go. It enables users to categorize expenditures and visualize spendings through insightful bar chart.
 * [Hotel Management System](https://github.com/KshitijSh-2604/JavaCollegeProject) - Fully functional Hotel Management System, created using <strong>Java</strong>, <strong>SQL</strong> and <strong>Java AWT</strong> for my junior year college project.
 * [Portfolio V1](https://github.com/KshitijSh-2604/Portfolio) - <b>(DEPRECATED)</b> A Portfolio website made using <strong>HTML</strong> and <strong>CSS</strong>.
+<!-- * [Rreddit](https://github.com/KshitijSh-2604/rreddit) - <b>(IN PROGRESS)</b> Fully functional clone of Reddit, made using Flutter and Firebase as backend.-->
 
 ## 💼 Technical Skills
 
